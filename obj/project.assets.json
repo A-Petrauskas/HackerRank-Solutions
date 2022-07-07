@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natur\\source\\repos\\HackerRank Problems\\HackerRank Problems.csproj",
-      "projectName": "HackerRank Problems",
-      "projectPath": "C:\\Users\\natur\\source\\repos\\HackerRank Problems\\HackerRank Problems.csproj",
+      "projectUniqueName": "C:\\Users\\natur\\source\\repos\\HackerRank Problems\\Algorithms.csproj",
+      "projectName": "Algorithms",
+      "projectPath": "C:\\Users\\natur\\source\\repos\\HackerRank Problems\\Algorithms.csproj",
       "packagesPath": "C:\\Users\\natur\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\natur\\source\\repos\\HackerRank Problems\\obj\\",
       "projectStyle": "PackageReference",
